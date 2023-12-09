@@ -11,5 +11,12 @@ In order to determine whether the system could support 120000 users for 12 hours
   ``` https://github.com/Fammemeem/Random-User-API-Performance-Test ```
 - Open the given jmx file in Apache JMeter
 - Give following input to run:
-   - Goto Thread Group > 
-  
+   - Goto Thread Group
+   - Give Number of threads (user)
+   - Give Ramp-Up period (seconds)
+   - Goto View Results Tree & click on run button
+
+## CLI Report: 
+
+![screencapture-file-E-apache-jmeter-5-6-2-bin-Random-User-Report-Reports-index-html-2023-12-07-21_44_42](https://github.com/Fammemeem/Random-User-API-Performance-Test/assets/106922643/cab9e198-985f-4037-ac62-5f8d7419dea6)
+
