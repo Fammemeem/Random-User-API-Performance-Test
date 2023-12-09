@@ -20,3 +20,10 @@ In order to determine whether the system could support 120000 users for 12 hours
 
 ![screencapture-file-E-apache-jmeter-5-6-2-bin-Random-User-Report-Reports-index-html-2023-12-07-21_44_42](https://github.com/Fammemeem/Random-User-API-Performance-Test/assets/106922643/cab9e198-985f-4037-ac62-5f8d7419dea6)
 
+## Load Test Report
+
+![Load test report](https://github.com/Fammemeem/Random-User-API-Performance-Test/assets/106922643/a95c001f-16ef-46c8-8968-4d2b5189e9bb)
+
+## Stress Test Report
+
+![Stress test report](https://github.com/Fammemeem/Random-User-API-Performance-Test/assets/106922643/8fc3d783-15c2-49d4-b689-a5d818b2afe6)
