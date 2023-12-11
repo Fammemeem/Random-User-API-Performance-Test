@@ -20,7 +20,7 @@ In order to determine whether the system could support 120000 users for 12 hours
 - Create a folder
 - Copy the jmx file & paste the jmx file in that folder
 - Goto terminal and give following command
-   ``` jmeter -n -t .\RandomUserAPI.jmx -l .\RandomUserAPI.csv -e -o ```
+   ``` jmeter -n -t .\RandomUserAPI.jmx -l .\RandomUserAPI.csv -e -o Reports```
 
 ## CLI Report: 
 
